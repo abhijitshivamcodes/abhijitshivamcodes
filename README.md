@@ -2,7 +2,7 @@
 - 👀 I’m interested in java, python 
 - 🌱 I’m currently learning web development 
 - ⌨️ I currently know Java intermediate(my first programing language), 
-- python basics,web development basics and Arduino programing basics
+- and python basics,web development basics and Arduino programing basics
 
 
 <!---
